@@ -3,7 +3,7 @@
    <title lang="en">Learning XML</title>
    <favorite_movie>1+1</favorite_movie>
    <favorite_series>Баки</favorite_series>
-   <favorite_food>Джульен</favorite_food>
-   <favorite_season_of_the_year>Лето</favorite_season_of_the_year>
-   <The_country_I_would_like_to_visit>Италия</The_country_I_would_like_to_visit>
+   <favorite_food>"Julien</favorite_food>
+   <favorite_season_of_the_year>Summer</favorite_season_of_the_year>
+   <The_country_I_would_like_to_visit>Italy</The_country_I_would_like_to_visit>
 </book>
