@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<book category="WEB">
+   <title lang="en">Learning XML</title>
+   <write>Chek-list, Smoke, Bug_reports, test-case, E2E</write>
+   <tools>GitBush, Postman, Charles</tools>
+</book>
