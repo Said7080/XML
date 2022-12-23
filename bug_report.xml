@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<book category="WEB">
+   <title lang="en">Learning XML</title>
+   <Environment>Win 10 Pro, Opera 93</Environment>
+   <Title>List item 4 is empty and lead to the same place in article as item 5 in block "Content" in thr article "Oil price outlook 2023: Here’s what the analysts think"
+NOTE: The same bug in the article"Bank of England interest rates: How high will they go?" in list item 3 (News and Analisis -> Explainers ->  Economics)</Title>
+   <Steps>
+     1. Navigate to capital.com
+     2. Click button [Burger menu]
+     3. Click menu item [News and Analysis]
+     4. Click item [Commodies]
+     5. Click article "Oil price outlook 2023: Here’s what the analysts think"
+     6. Click block "Content"</Steps>
+   <Expected_Result>Each list items has content and lead to the diffrent places in article</Expected_Result>
+   <Actual_Result>List item 4 is empty and lead to the same place in the article as item 5</Actual_Result>
+   <Link>https://drive.google.com/file/d/19pFeV8cH63LB2ZOeuxkqdXi5bws21KV0/view?usp=share_link</Link>
+  <License>ALL</License>
+   <Role_(unregistered,_unauthorized,_authorized,_All)>All</Role_(unregistered,_unauthorized,_authorized,_All)>
+   <Telegram_@nick>@BerSerker15</Telegram_@nick>
+</book>
