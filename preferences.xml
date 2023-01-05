@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="windows-1251"?>
-<book category="WEB">
-   <title lang="en">Learning XML</title>
+<my_preferences>
    <favorite_movie>1+1</favorite_movie>
    <favorite_series>Баки</favorite_series>
    <favorite_food>"Julien</favorite_food>
    <favorite_season_of_the_year>Summer</favorite_season_of_the_year>
    <The_country_I_would_like_to_visit>Italy</The_country_I_would_like_to_visit>
-</book>
+</my_preferences>
