@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="windows-1251"?>
-<book category="WEB">
-   <title lang="en">Learning XML</title>
+<information_about_me>
    <name>Said</name>
    <surname>Sharapudinov</surname>
    <year>18</year>
-   <animals>0</animals>
-   <money>80000</money>
-</book>
+   <number_of_pets>0</number_of_pets>
+   <future_desired_salary>80000</future_desired_salary>
+   </information_about_me>
