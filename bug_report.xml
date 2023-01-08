@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <bug_report_structure>
-    <summary>краткое описание</summary>
-    <project>проект</project>
-    <component>компонент приложения</component>
-    <version>номер версии</version>
+    <environment>(версия браузера или версия IOS или верися Android) и т.д</environment> 
+    <title>короткое описание</title>
+    <steps_to_reproduce>шаги воспроизведения</steps_to_reproduce>
+    <expected_result>Ожидаемый результат</expected_result>
+    <actual_result>Фактический результат</actual_result>
     <severity>серьезность</severity>
     <priority>приоритет</priority>
-    <steps_to_reproduce>шаги воспроизведения</steps_to_reproduce>
-    <actual_result>фактический результат</actual_result>
-    <expected_result>ожидаемый результат</expected_result>
-    <additional_information>дополнения</additional_information>
+    <status >Текущее состояние бага(исправлен, не исправлен и т.д)</status>
 </bug_report_structure>
